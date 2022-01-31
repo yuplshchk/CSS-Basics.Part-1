@@ -14,3 +14,7 @@
 ## 3. Pseudo-classes and pseudo-elements
 
 + [Pseudo-classes and pseudo-elements](https://developer.mozilla.org/ru/docs/Learn/CSS/Introduction_to_CSS/Pseudo-classes_and_pseudo-elements)
+## 4. Most used CSS properties
+
++ [Most used CSS properties](https://lucidar.me/en/web-dev-class/lesson-2-09-most-used-css-properties/)
++ [All CSS Properties You Need to Know](https://css-tricks.com/lets-look-50-interesting-css-properties-values/)
